@@ -20,7 +20,7 @@ IntelliJ Keybinds for Xcode. Not all the keybindings are migrated yet.
 # How to install?
 -  Download the `IntelliJ.idekeybindings` file
 -  Open your terminal and move to `~/Library/Developer/Xcode/UserData/KeyBindings/
--  Execute `open .` to open the actual folder and copy the `IntelliJDark.xccolortheme` file.
+-  Execute `open .` to open the actual folder and copy the `IntelliJ.idekeybindings` file.
 -  Open Xcode
 -  Go to `Preferences/Key binding and choose your profile.
 
